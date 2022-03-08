@@ -1,0 +1,7 @@
+.form {
+  margin-bottom: 1rem;
+  width: 100%;
+}
+form input {
+  padding: 8px;
+}
